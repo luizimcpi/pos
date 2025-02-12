@@ -28,4 +28,4 @@ https://fonts.google.com/selection/embed - Inter
 
 ## Video
 1. Configurando a aplicação frontend :clapper:\
-<a href="https://www.youtube.com/watch?v=_wmIHApovP4&list=WL&index=1&t=280s"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px"/></a>
+<a href="https://www.youtube.com/watch?v=zaVjicZ7YJ8&t=18s"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px"/></a>

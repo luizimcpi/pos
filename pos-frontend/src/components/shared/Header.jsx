@@ -1,7 +1,7 @@
 // import React from "react";
-// import { FaSearch } from "react-icons/fa";
-// import { FaUserCircle } from "react-icons/fa";
-// import { FaBell } from "react-icons/fa";
+import { FaSearch } from "react-icons/fa";
+import { FaUserCircle } from "react-icons/fa";
+import { FaBell } from "react-icons/fa";
 import logo from "../../assets/images/logo.png";
 
 const Header = () => {
@@ -14,6 +14,29 @@ const Header = () => {
             </div>
             {/* SEARCH */}
 
+            <div className="flex items-center gap-4 bg-[#1f1f1f] p-2 rounded-[15px] px-5 py-2 w-[500px]">
+                <FaSearch className="text-[#f5f5f5]" />
+                <input 
+                    type="text" 
+                    placeholder="Search" 
+                    className="bg-[#1f1f1f] outline-none text-[#f5f5f5]" 
+                />
+            </div>  
+
+             {/* LOGGED USER DETAILS */}
+
+             <div className="flex items-center gap-4">
+                <div className="bg-[#1f1f1f] rounded-[15px] p-3 cursor-pointer">
+                    <FaBell className="text-[#f5f5f5] text-2x1" />
+                </div>
+                <div className="flex items-center gap-3 cursor-pointer">
+                    <FaUserCircle className="text-[#f5f5f5] text-2x1" />
+                    <div className="flex flex-col items-start">
+                        <h1 className="text-md text-[#f5f5f5] font-semibold">John Doe</h1>
+                        <p className="text-xs text-[#ababab] font-medium">Admin</p>
+                    </div>
+                </div>
+             </div>
         </header>
     );
 }
