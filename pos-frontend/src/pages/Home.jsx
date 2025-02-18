@@ -1,4 +1,3 @@
-import React from "react";  
 import BottomNav from "../components/shared/BottomNav";
 import Greetings from "../components/home/Greetings";
 import MiniCard from "../components/home/MiniCard";
