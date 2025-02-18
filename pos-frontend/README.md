@@ -27,5 +27,5 @@ https://fonts.google.com/selection/embed - Inter
 ```
 
 ## Video
-3. Orders Page UI Design :clapper:\
-<a href="https://www.youtube.com/watch?v=pXCR8UjIKng&t=330s"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px"/></a>
+4. Tables Page UI Design :clapper:\
+<a href="https://www.youtube.com/watch?v=Zn8PfVfP5qA&list=PL9OdiypqS7Nk0DHnSNFIi8RgEFJCIWB6X&index=4"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px"/></a>
